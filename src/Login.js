@@ -25,7 +25,7 @@ export default function Login () {
     }
   }
   return (
-    <div className="Login">
+    <div className="login-body">
       <div className="box">
         <h2>Login</h2>
         <form id="loginForm">
