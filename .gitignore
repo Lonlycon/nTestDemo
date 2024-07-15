@@ -9,7 +9,7 @@
 
 # testing
 /coverage
-image/
+*.jpg
 !bg.jpg
 
 # production
