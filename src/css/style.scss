@@ -13,6 +13,13 @@
   align-items: center;
 }
 
+.sakana-box {
+  position: fixed !important;
+  right: 20px !important;
+  bottom: 0 !important;
+  transform-origin: 100% 100% !important; /* 从右下开始变换 */
+}
+
 .box {
   width: 350px;
   height: 350px;
